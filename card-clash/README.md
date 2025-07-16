@@ -49,7 +49,7 @@ Card Clash is a web-based card game where you compete against a computer opponen
 ## 🖼️ Screenshots / Demo
 
 <p align="center">
-  <img src="public/screenshot-loyalroyals" alt="Game Mode Selection and How to Play - Logic Royale" width="800"/>
+  <img src="public/screenshot-loyalroyals.png" alt="Game Mode Selection and How to Play - Logic Royale" width="800"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@ Card Clash is a web-based card game where you compete against a computer opponen
 
 ### Installation
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Steven-Awo/Logic-Royale.git
 cd card-clash
 npm install
 ```
