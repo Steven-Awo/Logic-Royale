@@ -1,6 +1,6 @@
 # ♠️ Card Clash
 
-![Card Clash Banner](public/vite.svg)
+![Card Clash Banner](card-clas/public/vite.svg)
 
 > **A modern, interactive card game built with React, Vite, and Tailwind CSS. Challenge the computer, master the deck, and become the Card Clash champion!**
 
@@ -47,7 +47,9 @@ Card Clash is a web-based card game where you compete against a computer opponen
 ---
 
 ## 🖼️ Screenshots / Demo
-<img width="2455" height="1803" alt="image" src="https://github.com/user-attachments/assets/dc58c4a1-1344-4568-bed9-ae5e4600b817" />
+<p align="center">
+  <img src="card-clas/public/screenshot-loyalroyals.png" alt="Game Mode Selection and How to Play - Logic Royale" width="800"/>
+</p>
 
 
 > _Add your own screenshots or a GIF demo here!_
