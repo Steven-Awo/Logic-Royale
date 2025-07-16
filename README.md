@@ -1,4 +1,4 @@
-# 🌟 UK Work Project Workspace
+# 🌟 Logic Royale Project Workspace
 
 <p align="center">
   <img src="card-clash/public/vite.svg" alt="Workspace Banner" width="120"/>
@@ -9,7 +9,7 @@
 
 ---
 
-Welcome to the **UK Work** monorepo! This workspace is designed for modular web projects, games, and experiments. Each subfolder is a standalone project, making it easy to manage, contribute, and expand.
+Welcome to the **Logic Royale** monorepo! This workspace is designed for modular web projects, games, and experiments. Each subfolder is a standalone project, making it easy to manage, contribute, and expand.
 
 ---
 
