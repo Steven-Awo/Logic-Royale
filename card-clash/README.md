@@ -48,7 +48,9 @@ Card Clash is a web-based card game where you compete against a computer opponen
 
 ## 🖼️ Screenshots / Demo
 
-> _Add your own screenshots or a GIF demo here!_
+<p align="center">
+  <img src="public/screenshot-loyalroyals" alt="Game Mode Selection and How to Play - Logic Royale" width="800"/>
+</p>
 
 ---
 
